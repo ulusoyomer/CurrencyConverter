@@ -1,5 +1,5 @@
 # CurrencyConverter
-Api kullanarak json formatında aldığım döviz verilerini kullanarak geliştirdigim uygulama
+Api ile json formatında aldığım döviz verilerini kullanarak geliştirdigim uygulama
 ## Geliştirilme Ortamı
 Swift Geliştirme Ortamı Bulunan **Xcode** ile geliştirildi.<br>
 <br>
